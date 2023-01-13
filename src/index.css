@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Inknut%20Antiqua:wght@300;400;500;600;700&family=Oswald:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700&family=Oswald:wght@300;400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap');
 
 :root {
-  --font-base: 'Inknut Antiqua';
-  --font-main: 'Inter';
-  --font-alt: 'Oswald';
+  --font-base: 'Inknut Antiqua', serif;
+  --font-main: 'Inter', serif;
+  --font-alt: 'Oswald', serif;
 }
 
 * {
