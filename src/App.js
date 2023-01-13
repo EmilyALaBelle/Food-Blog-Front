@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { AboutUs, CTAApps, CTADessert, Footer, Hero, LatestPost, Navbar, RecipeSlider } from './components'
+import { AboutUs, CTAApps, CTADessert, Footer, Hero, LatestPost, Navbar, RecipeSlider } from './'
 
 const App = () => (
     <div>
