@@ -1,6 +1,6 @@
 .app__hero {
   height: 600px;
-  background-image: url('https://images.unsplash.com/photo-1473923377535-0002805f57e8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d239ac0e409e18cf74ace503c491714f&auto=format&fit=crop&w=1469&q=80');
+  background-image: url('https://images.unsplash.com/photo-1496412705862-e0088f16f791?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80');
   background-attachment: fixed;
   background-position: center top;
   display: flex;
@@ -12,6 +12,8 @@
   width: 1024px;
   height: 768px;
   top: 0px;
+  left: 0;
   z-index: -1;
-  width: 100%;
+  width: 100%;  
+  background-position: center left;
 }
