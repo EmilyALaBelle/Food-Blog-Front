@@ -1,4 +1,4 @@
 .hi {
-  font-family: var(--font-main);
+  font-family: var(--font-base);
   border: solid 1px red;
 }
