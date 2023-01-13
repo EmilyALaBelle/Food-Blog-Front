@@ -1,0 +1,17 @@
+.app__hero {
+  height: 600px;
+  background-image: url('https://images.unsplash.com/photo-1473923377535-0002805f57e8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d239ac0e409e18cf74ace503c491714f&auto=format&fit=crop&w=1469&q=80');
+  background-attachment: fixed;
+  background-position: center top;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 320px 0px;
+  position: absolute;
+  width: 1024px;
+  height: 768px;
+  top: 0px;
+  z-index: -1;
+  width: 100%;
+}

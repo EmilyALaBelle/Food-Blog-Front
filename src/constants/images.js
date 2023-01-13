@@ -9,9 +9,11 @@ import frenchToast from '../assets/frenchToast.png'
 import hummus from '../assets/hummus.png'
 import pannaCotta from '../assets/pannaCotta.png'
 import popsicle from '../assets/popsicle.png'
-import southwestSalad from '../assets/southwestSalad'
+import southwestSalad from '../assets/southwestSalad.png'
+import logo from '../assets/logo.png'
 
 export default {
+  logo,
   beanAndEgg, 
   charcuterieBoard, 
   chef, 
