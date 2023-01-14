@@ -5,7 +5,7 @@ import { AboutUs, CTAApps, CTADessert, Footer, Hero, LatestPost, Navbar, RecipeS
 const App = () => (
   <div>
     <Navbar />
-    <Hero />
+  
     <AboutUs />
     <CTAApps />
     <RecipeSlider />

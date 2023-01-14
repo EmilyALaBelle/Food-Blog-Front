@@ -11,6 +11,7 @@ import pannaCotta from '../assets/pannaCotta.png'
 import popsicle from '../assets/popsicle.png'
 import southwestSalad from '../assets/southwestSalad.png'
 import logo from '../assets/logo.png'
+import citrusTarteEdit from '../assets/citrusTarteEdit.png'
 
 export default {
   logo,
@@ -25,5 +26,6 @@ export default {
   hummus,
   pannaCotta,
   popsicle,
-  southwestSalad
+  southwestSalad,
+  citrusTarteEdit
 }
