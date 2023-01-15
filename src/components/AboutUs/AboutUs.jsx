@@ -4,7 +4,7 @@ import images from '../../constants/images'
 
 const AboutUs = () => {
   return (
-    <div className='app__aboutus'>
+    <div className='app__aboutus' id='about'>
       <div className='app__aboutus-container'>
         <div className='app__aboutus-body'>
           <div className='app__aboutus-intro'>

@@ -16,7 +16,7 @@ const Navbar = () => {
           <li className='app__navbar-link'><a href="#contact">Contact</a></li>
         </ul>
       </nav>
-      <div className='background__image'>
+      <div className='background__image' id='home'>
       <div className='app__hero-header'>
         <h1 >Welcome To My Blog</h1>
       </div>
