@@ -2,7 +2,9 @@ import React from 'react'
 
 const CTAApps = () => {
   return (
-    <div>CTAApps</div>
+    <div className='app__CTAAPPS'>
+      <button></button>
+    </div>
   )
 }
 
