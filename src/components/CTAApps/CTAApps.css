@@ -1,3 +1,76 @@
 .app__CTAAPPS{
-  background-image: url('');
+  /* background-image: url('https://images.unsplash.com/photo-1478145046317-39f10e56b5e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80'); */
+  background-image: url('https://images.unsplash.com/photo-1544510808-91bcbee1df55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1486&q=80');
+  /* background-image: url('https://images.unsplash.com/photo-1540914124281-342587941389?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80'); */
+  background-size: cover;
+  height: 85vh;
+  background-repeat: no-repeat;
+  position: relative;
+  display: flex;
+  background-position: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  z-index: -1;
+  width: 100%;
+}
+
+.app__CTAAPPS h1 {
+  background-color: rgba(0, 0, 0, .40);
+font-weight: 400;
+size: 34px;
+line-height: 46px;
+font-family: var(--font-base);
+color: #ffffff;
+margin-bottom: 10px;
+}
+
+.button-18 {
+  align-items: center;
+  /* background-color: #00373D; */
+  background: transparent;
+  border: solid white 1px;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: -apple-system, system-ui, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Fira Sans", Ubuntu, Oxygen, "Oxygen Sans", Cantarell, "Droid Sans", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 20px;
+  max-width: 480px;
+  min-height: 40px;
+  min-width: 0px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  overflow: hidden;
+  padding: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  touch-action: manipulation;
+  /* transition: background-color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, box-shadow 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s, color 0.167s cubic-bezier(0.4, 0, 0.2, 1) 0s; */
+  user-select: none;
+  -webkit-user-select: none;
+  vertical-align: middle;
+}
+
+.button-18:hover,
+.button-18:focus {
+background: transparent;
+  color: #ffffff;
+}
+
+.button-18:active {
+  background: transparent;
+  /* color: rgb(255, 255, 255, .7); */
+}
+
+.button-18:disabled {
+  cursor: not-allowed;
+  /* background: rgba(0, 0, 0, .08); */
+  background: transparent;
+  /* color: rgba(0, 0, 0, .3); */ 
 }

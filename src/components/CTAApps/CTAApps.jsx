@@ -1,9 +1,15 @@
 import React from 'react'
+import './CTAApps.css'
 
 const CTAApps = () => {
   return (
     <div className='app__CTAAPPS'>
-      <button></button>
+
+      <h1>Appetizers</h1>
+
+      <button type='button' className='button-18'>View All Posts</button>
+
+
     </div>
   )
 }
