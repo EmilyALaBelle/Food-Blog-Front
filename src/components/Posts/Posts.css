@@ -7,12 +7,11 @@
   gap: 24px;
   /* isolation: isolate; */
   /* position: absolute; */
-  width: 430px;
-  height: 766px;
-  left: 216px;
-  top: 3520px;
+  max-width: 430px;
+  height: 100%;
   background: #00373D;
   border: 1px solid #FFFFFF;
+  
 }
 
 .app__post-image{
