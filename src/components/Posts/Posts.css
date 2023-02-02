@@ -1,0 +1,22 @@
+.app__post{
+
+}
+
+.app__post-image{
+
+}
+
+.app__post-image img{
+  width: 428px;
+  height: 430px;
+  flex: none;
+  order: 0;
+  align-self: stretch;
+  flex-grow: 0;
+  z-index: 0;
+  
+}
+
+.app__post-content{
+
+}

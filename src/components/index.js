@@ -6,6 +6,7 @@ import Hero from './Hero/Hero'
 import LatestPost from './LatestPost/LatestPost'
 import Navbar from './Navbar/Navbar'
 import RecipeSlider from './RecipeSlider/RecipeSlider'
+import Posts from './Posts/Posts'
 
 export {
   AboutUs,
@@ -15,5 +16,6 @@ export {
   Hero,
   LatestPost,
   Navbar,
-  RecipeSlider
+  RecipeSlider,
+  Posts
 }

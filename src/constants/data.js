@@ -1,6 +1,6 @@
 import images from './images';
 
-const posts = [
+const card = [
   {
     imgUrl: images.hummus,
     title: "Basil Hummus",
@@ -27,4 +27,4 @@ const posts = [
   },
 ]
 
-export default {posts}
+export default {card}
