@@ -7,7 +7,7 @@ const card = [
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia pariatur culpa, esse nihil soluta totam aliquam nesciunt optio! Officiis, quibusdam. Quia sed repellat explicabo ipsam ea, aliquid hic ratione laudantium.",
     user: "HummusGal1230",
     date: "1-27-23",
-    cta: "Continue Reading ->",
+
   },
   {
     imgUrl: images.eggTeaSandwich,
@@ -15,7 +15,7 @@ const card = [
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia pariatur culpa, esse nihil soluta totam aliquam nesciunt optio! Officiis, quibusdam. Quia sed repellat explicabo ipsam ea, aliquid hic ratione laudantium.",
     user: "FancyLady65",
     date: "3-12-22",
-    cta: "Continue Reading ->",
+
   },
   {
     imgUrl: images.southwestSalad,
@@ -23,7 +23,7 @@ const card = [
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia pariatur culpa, esse nihil soluta totam aliquam nesciunt optio! Officiis, quibusdam. Quia sed repellat explicabo ipsam ea, aliquid hic ratione laudantium.",
     user: "HealthyHappy50",
     date: "6-03-22",
-    cta: "Continue Reading ->",
+
   },
 ]
 

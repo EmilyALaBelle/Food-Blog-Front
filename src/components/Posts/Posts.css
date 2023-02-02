@@ -1,5 +1,18 @@
 .app__post{
-
+  box-sizing: border-box;  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1px 1px 40px;
+  gap: 24px;
+  /* isolation: isolate; */
+  /* position: absolute; */
+  width: 430px;
+  height: 766px;
+  left: 216px;
+  top: 3520px;
+  background: #00373D;
+  border: 1px solid #FFFFFF;
 }
 
 .app__post-image{
@@ -18,5 +31,16 @@
 }
 
 .app__post-content{
-
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px 24px;
+  gap: 36px;
+  width: 428px;
+  height: 271px;
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+ color: white;
 }
