@@ -1,3 +1,22 @@
+# Food Blog
+
+This project was generated with [Reactjs](https://reactjs.org/)
+
+## Deployed App
+
+https://food-blog-frontend.azurewebsites.net/
+
+http://food-blog-app.s3-website-us-east-1.amazonaws.com/
+
+## Contact
+
+Emily LaBelle - [Linkdin](https://www.linkedin.com/in/emilylabelledev/) - emilylabelle8@gmail.com
+
+
+## Acknowledgments
+[Personal Blog Figma File](https://ui8.net/tatbiqit/products/grammy-responsive-personal-blog--online-newspaper)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
