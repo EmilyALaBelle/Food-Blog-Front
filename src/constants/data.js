@@ -18,11 +18,11 @@ const card = [
 
   },
   {
-    imgUrl: images.southwestSalad,
-    title: "South West Salad",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia pariatur culpa, esse nihil soluta totam aliquam nesciunt optio! Officiis, quibusdam. Quia sed repellat explicabo ipsam ea, aliquid hic ratione laudantium.",
-    user: "HealthyHappy50",
-    date: "6-03-22",
+    // imgUrl: images.southwestSalad,
+    // title: "South West Salad",
+    // description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia pariatur culpa, esse nihil soluta totam aliquam nesciunt optio! Officiis, quibusdam. Quia sed repellat explicabo ipsam ea, aliquid hic ratione laudantium.",
+    // user: "HealthyHappy50",
+    // date: "6-03-22",
 
   },
 ]
